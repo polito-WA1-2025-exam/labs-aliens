@@ -1,9 +1,11 @@
 # Group "GROUP NAME"
 
 ## Members
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
+- s339254 Hashembeigi Sabra
+- s338942 Shirvani Dastgerdi Amirhossein
+- s342721 Vosoughi Pour Roya
+- s339039 Izadi Shayan
+
 
 # Exercise "NAME OF EXERCISE"
 
